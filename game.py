@@ -7,15 +7,6 @@ print("3.kertas")
 print()
 
 def game_sederhana():
-i=0
-	while True:
-		pil=int(input("masukan pilihan:  "))
-		lagi = " "
-		while lagi !="y" and lagi!="t":
-			lagi = input("Masih Lanjut [Y/T] : ")
-		if lagi =="t":
-			break
-		i+=1
 	kom=random.choice(["batu","gunting","kertas"])
 	pil=int(input("masukan pilihan: "))
 	if pil==1:
