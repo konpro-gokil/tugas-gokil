@@ -1,0 +1,14 @@
+masukan nama: adji
+masukan asal: blitar
+masukan tanggal lahir: 17 januari 1997nama saya adalah adjisaya berasal dari blitarsaya lahir pada 17 januari 1997nama saya adalah adjisaya berasal dari blitarsaya lahir pada 17 januari 1997nama saya adalah adjisaya berasal dari blitarsaya lahir pada 17 januari 1997nama saya adalah adji
+saya berasal dari blitar
+saya lahir pada 17 januari 1997
+nama saya adalah adji
+saya berasal dari blitar
+saya lahir pada 17 januari 1997
+nama saya adalah adji
+saya berasal dari blitar
+saya lahir pada 17 januari 1997
+nama saya adalah pras
+saya berasal dari surabaya
+saya lahir pada 12 desember 1996

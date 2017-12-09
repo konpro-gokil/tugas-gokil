@@ -1,0 +1,28 @@
+nama: adji
+asal: nganjuk
+tanggal: 12 maret 1995
+nama: adji
+asal: nganjuk
+tanggal: 12 maret 1995
+nama: adji
+asal: nganjuk
+tanggal: 12 maret 1995
+nama: adji
+asal: nganjuk
+tanggal: 12 maret 1995
+nama: adji
+asal: nganjuk
+nama: adji pras
+asal: bali
+tanggal: 14 agustus 1996
+nama: adji
+asal: solo
+tanggal: 14 april 1998
+nama: adji
+asal: solo
+tanggal: 14 april 1998
+nama: agung
+asal: padang
+tanggal: 1997
+nama: agung
+asal: padang
