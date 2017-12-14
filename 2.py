@@ -7,3 +7,5 @@ while (flag):
 		print("goodbye python")
 		break
 	print("nama saya",nama)
+	
+#sebuah nama
