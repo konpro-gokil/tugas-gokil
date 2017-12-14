@@ -15,3 +15,5 @@ tanggal = str(input("masukan tanggal lahir: "))
 result = file.write("saya lahir pada %s\n"%(tanggal))
 print(result)
 print("--------------------\"n")
+
+#bisa bisa
